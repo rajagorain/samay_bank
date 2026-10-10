@@ -1,0 +1,111 @@
+{
+  "members": [
+    {
+      "name": "Lakshmi Aunty",
+      "hours": 4
+    },
+    {
+      "name": "Imran Sheikh",
+      "hours": 3
+    },
+    {
+      "name": "Meena Joshi",
+      "hours": 2
+    },
+    {
+      "name": "Arjun Rao",
+      "hours": 2
+    },
+    {
+      "name": "Raj",
+      "hours": 2
+    }
+  ],
+  "listings": [
+    {
+      "id": "88824d4f-23aa-4fcf-b478-120766dd0603",
+      "type": "offer",
+      "title": "I will fill your online forms (PAN, passport, ration card)",
+      "category": "Paperwork",
+      "hours": 1,
+      "area": "B-Wing",
+      "owner": "Lakshmi Aunty",
+      "details": "Bring your documents. I will sit with you and explain each step.",
+      "status": "open",
+      "createdAt": "2026-10-10T02:25:55.682Z"
+    },
+    {
+      "id": "c7fcc69d-c737-4c25-bd91-a374ac8ad270",
+      "type": "request",
+      "title": "Need help reading a rental agreement before I sign",
+      "category": "Paperwork",
+      "hours": 1,
+      "area": "Main road",
+      "owner": "Arjun Rao",
+      "details": "Just a second pair of eyes for clauses on deposit and notice period.",
+      "status": "open",
+      "createdAt": "2026-10-09T23:25:55.682Z"
+    },
+    {
+      "id": "0fde9c33-fe39-43d3-9b93-ea4a324d1d87",
+      "type": "offer",
+      "title": "Excel basics for your shop accounts",
+      "category": "Tech help",
+      "hours": 2,
+      "area": "Park side",
+      "owner": "Imran Sheikh",
+      "details": "Sheets, simple formulas and a monthly hisaab template.",
+      "status": "open",
+      "createdAt": "2026-10-09T19:25:55.682Z"
+    },
+    {
+      "id": "0eaa0e5d-3fb8-4e2f-8eb3-b763be90d9d6",
+      "type": "offer",
+      "title": "Learn to roll soft phulkas that puff up",
+      "category": "Cooking",
+      "hours": 1,
+      "area": "Lane 4",
+      "owner": "Meena Joshi",
+      "details": "Evening slots. You bring the atta, I bring the tawa.",
+      "status": "open",
+      "createdAt": "2026-10-09T08:25:55.682Z"
+    },
+    {
+      "id": "ac346dbc-56f1-4577-ac0e-700a2a0e2c98",
+      "type": "request",
+      "title": "Leaking tap in the kitchen needs a new washer",
+      "category": "Repairs",
+      "hours": 1,
+      "area": "B-Wing",
+      "owner": "Meena Joshi",
+      "details": "I have the washer. I need someone who knows how to fit it.",
+      "status": "open",
+      "createdAt": "2026-10-09T02:25:55.682Z"
+    },
+    {
+      "id": "60beb471-c3b0-4654-ac37-ec18fe59a476",
+      "type": "request",
+      "title": "Someone to walk with my father in the evening",
+      "category": "Care",
+      "hours": 2,
+      "area": "Park side",
+      "owner": "Imran Sheikh",
+      "details": "He is 74 and walks slowly. Around 6 pm, near the garden.",
+      "status": "open",
+      "createdAt": "2026-10-08T22:25:55.682Z"
+    },
+    {
+      "id": "b47eefa8-e611-46e6-bebb-11d548c30124",
+      "type": "offer",
+      "title": "Spoken English practice for job interviews",
+      "category": "Language",
+      "hours": 1,
+      "area": "Lane 4",
+      "owner": "Arjun Rao",
+      "details": "Mock interview and honest feedback.",
+      "status": "open",
+      "createdAt": "2026-10-08T12:25:55.682Z"
+    }
+  ],
+  "ledger": []
+}

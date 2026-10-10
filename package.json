@@ -1,0 +1,17 @@
+{
+  "name": "samay-bank",
+  "version": "1.0.0",
+  "description": "A neighbourhood time bank: trade hours of help, not rupees.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "license": "MIT"
+}
